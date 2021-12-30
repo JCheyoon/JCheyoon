@@ -7,7 +7,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## I work using
+## I am using ...
 <p>
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" />
 </p>
