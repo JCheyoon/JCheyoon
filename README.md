@@ -7,9 +7,11 @@
      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
 </p>
 
-## I am using ...
+## I am using
 <p>
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" />
 </p>
