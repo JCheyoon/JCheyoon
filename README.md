@@ -8,7 +8,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="THREEJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=">
+    <img alt="THREEJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=21262D&logo=Three.js&logoColor=FFFFFF&label=">
 
 </p>
 
