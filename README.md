@@ -10,16 +10,16 @@
 </p>
  
 
-## I am studying ...
+## I keep studying ...
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-
 </p>
 
 ## I am using
 <p>
-  <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-99ccff?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
