@@ -26,8 +26,6 @@
 ## Private GitHub Activity
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JCheyoon&theme=dark" width="auto" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCheyoon&layout=compact)
-
 ## Find me also on
 
 <p>
