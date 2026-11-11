@@ -16,7 +16,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="ClaudeCode" src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white"/>
-  <img alt="Figma" scr="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ## Private GitHub Activity
