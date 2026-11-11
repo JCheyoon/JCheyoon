@@ -12,11 +12,17 @@
  
 ## I am using
 <p>
-  <img alt="Mac" src="https://img.shields.io/badge/Windows-99ccff?style=for-the-badge&logo=Windows&logoColor=white](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto" />
+  <img alt="Mac" src="https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="ClaudeCode" src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+## I am studying ...
+<p>
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ## Private GitHub Activity
